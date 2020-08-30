@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# SWOT Evolution Neutralizing weakness using a threat
 
-You can use the [editor on GitHub](https://github.com/econclave/SWOT-Evolution-Neutralizing-weakness-using-a-threat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The Airline without a lifeline
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The rising price of aviation fuel cost or depreciating rupee seems to have no impact on the aviation industry. When the news about the present state of Jet Airways hit the markets, it sent the investors for a shock. It also saddened the government, as this might reflect the larger picture of the entire Industry. The airline companies going for loss and misery is nothing new for India, which has seen the likes of Air India and Kingfisher Airlines, walk the same path. But this time, the market has a new offer.
 
-### Markdown
+It’s inherent that companies have their own threats and weaknesses. They also work to eliminate them or shadow their weakness with their strengths. But when a firm is smart enough to neutralize its weakness using the threats faced or weakness experienced by its competitor, it’s a killer strategy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jet Airways is in a very bad economic state and they are not able to meet their financial ends. Their debts have increased, their outstanding salaries to the pilots have accumulated and they are also defaulting on lease and rental payments. The other lenders are trying to engineer a _‘control by operation’_ by reducing the equity held by its promoter to 17 % from the current 51%, in return to clear his debts. The deal is very simple; _de facto control_ (Managerial control) to release the financially stressed airline from all its debts. Though we can reserve the strategy behind this move for another analysis, the market reaction to this situation can now be examined.
 
-```markdown
-Syntax highlighted code block
+![The Airline Industry](https://images.unsplash.com/reserve/iFW2JucQi2520x6vB5wW_IMG_1735_edited.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-# Header 1
-## Header 2
-### Header 3
+IndiGo, India’s biggest airline by market share is facing a severe flying–crew shortage. Due to which it cancels 30 flights every day. This gives an approximation loss of revenue of Rs. 22,000,000 on a daily basis. But now, IndiGo is hiring more than 100 commander level pilots, primarily those exiting JetAirways. This exodus of employees creates a win-win situation both for Indigo, to get rid of its pilot shortage problem and for the commanders of Jet Airways who were agonised about their outstanding salary due. They threatened to go on strike if their dues are not settled by the end of March 2019. The investors of Spice Jet and IndiGo too are benefited by this strategy as their share prices have significantly swelled. This seems something to celebrate because the investors expected a huge drop in the prices of their shares but a positive effect surprised them. But, the share price of Jet Airways has significantly dropped.
 
-- Bulleted
-- List
+IndiGo has one thing to look about. The airbus of Jet Airways is the **BOEING 737** to which their pilots are accustomed to. The airbus of IndiGo is the A320. The pilots are required to undergo a training of minimum 6 months, the cost of which can be easily recovered by deploying their flights at full capacity in the future. IndiGo has also planned to add A321 neo to their fleet in the next one year.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econclave/SWOT-Evolution-Neutralizing-weakness-using-a-threat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This transfer of resources from one competitor to another, who is performing well ensure that that there is proper allocation of resources globally. It also ensures that the economic activities function as a collapse in anyone industry would be contagious in this globalized economy, only to affect the other economies in a negative way. Investor emotions can be reserved until the economy is in a harmony.
